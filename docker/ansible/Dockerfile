@@ -1,4 +1,4 @@
-FROM ubuntu
+FROM ubuntu:19.10
 
 ENV ANSIBLE_HOST_KEY_CHECKING False
 
